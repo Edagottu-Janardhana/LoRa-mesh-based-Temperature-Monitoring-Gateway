@@ -434,7 +434,7 @@ main thread
 Sensor Device
       |
       v
- UART / LoRa
+     UART 
       |
       v
 Raspberry Pi Gateway
@@ -455,5 +455,4 @@ Raspberry Pi Gateway
 Edagottu Janardhana
 Firmware Developer
 
-GitHub Repository:
-[https://github.com/Edagottu-Janardhana/LoRa-mesh-based-Temperature-Monitoring-Gateway](https://github.com/Edagottu-Janardhana/LoRa-mesh-based-Temperature-Monitoring-Gateway)
+
