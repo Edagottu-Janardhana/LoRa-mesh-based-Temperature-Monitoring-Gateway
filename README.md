@@ -1,4 +1,4 @@
-# Raspberry Pi IoT Gateway - main.py Documentation
+# Raspberry Pi - Wireless Temperature Monitoring Gateway Documentation
 
 ## Overview
 
